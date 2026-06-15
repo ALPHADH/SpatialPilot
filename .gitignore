@@ -25,5 +25,8 @@ Thumbs.db
 *.so
 *.a
 
+# Claude Code local config
+.claude/
+
 # ROS logs
 *.log
